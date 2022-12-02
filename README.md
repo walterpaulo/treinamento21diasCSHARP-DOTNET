@@ -9,6 +9,7 @@
 - [Dia 2 - 29/11/2022]() - 
 - [Dia 3 - 30/11/2022]() - 
 - [Dia 4 - 01/12/2022](./aulas/dia4/README.md) - Lógica, exercícios...
+- [Dia 5 - 02/12/2022](./aulas/dia5/README.md) - loop, parâmetros...
 
 > Segue minhas anotações de estudos, recomendo o treinamento. Para mais informação acesse o link abaixo. 
 
